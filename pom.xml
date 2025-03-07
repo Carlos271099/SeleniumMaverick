@@ -46,6 +46,44 @@
     </dependency>
 
 
+    <!-- Dependencia Apache Poi Excel -->
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi</artifactId>
+      <version>5.2.2</version>
+    </dependency>
+
+    <!-- Dependencia Apache Poi Excel -->
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi-ooxml</artifactId>
+      <version>5.2.2</version>
+    </dependency>
+
+    <!-- https://mvnrepository.com/artifact/com.github.ozlerhakan/poiji -->
+    <dependency>
+      <groupId>com.github.ozlerhakan</groupId>
+      <artifactId>poiji</artifactId>
+      <version>4.1.1</version>
+    </dependency>
+
+
+    <!-- Dependencia Log4j -->
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>2.19.0</version>
+    </dependency>
+
+    <!-- Dependencia Log4j -->
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-api</artifactId>
+      <version>2.19.0</version>
+    </dependency>
+
+
+
 
   </dependencies>
 </project>
